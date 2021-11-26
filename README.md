@@ -12,3 +12,5 @@ Facebook Messenger chatbot:
 
 
 #https://adamspannbauer.github.io/2017/04/09/tutorial-facebook-messenger-chatbot-with-aws-lambda-python-written-by-an-r-programmer/
+
+#https://tutorials.botsfloor.com/run-facebook-messenger-chat-bot-on-aws-lambda-2fa800a67d76
